@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Legal Studies"
+    ],
+    [
+      "Business",
+      "Real Estate"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ]
+  ],
+  "legacy_uid": "aeb9476d-2e39-b5ef-da9c-8293aae39f5d",
+  "instructors": {
+    "content": [
+      "24deb6b7-2749-e2ba-080c-7dd80b12d082"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cb68b354-3547-8a77-cae5-ce9a2ff7184f",
+    "website": "11-493-legal-aspects-of-property-and-land-use-fall-2005"
+  },
+  "course_title": "Legal Aspects of Property and Land Use",
+  "course_description": "This course is designed to offer an advanced introduction to key legal issues that arise in the area of property and land-use in American law, with a comparative focus on the laws of India and South Africa. The focus of the course is not on law itself, but on the policy implications of various rules, doctrines and practices which are covered in great detail. Legal rules regulating property are among the most fundamental to American, and most other, economies and societies. The main focus is on American property and land use law due to its prominence in international development policy and practice as a model, though substantial comparative legal materials are also introduced from selected non-western countries such as India and South Africa.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.493",
+  "course_image_thumbnail": {
+    "content": "e514eac2-05a2-5558-4a6e-70fbf89cc2cb",
+    "website": "11-493-legal-aspects-of-property-and-land-use-fall-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "8ad57394-187a-47a2-ad4e-25355188d6b4",
+  "site_short_id": "11.493-fall-2005",
+  "site_url_path": "courses/11-493-legal-aspects-of-property-and-land-use-fall-2005",
+  "title": "Course Metadata"
+}

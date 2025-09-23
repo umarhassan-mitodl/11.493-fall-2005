@@ -1,0 +1,11 @@
+---
+content_type: external-resource
+external_url: https://indiankanoon.org/doc/1938608/?__cf_chl_jschl_tk__=58b7b14155b24f31854e91cbbfe03d4e50f13659-1623443607-0-AWDgsgs-8GcEtupbS7UuOIQS6Ctxkz8du7WPH9i05cfmOEp-cb6XquApTPgMYc1pYCqpAkb0BH0xRX9JXZcVvuvVHN7wa_rnKDxzGRMAg_AZvKp-wNDpT-vsa7A7UypgzONTdzxJjVnh2mtKi6SBfm5W8qhgJoMALbznzlvrXOjbLl16RbZ8dcZshnEupzQy6RaESZ17PniuSpkRgMHqD-usMqUDIPfivriIFVz_5WCmR9cVmFxQN_Vzc_rE12u72iwB-jLIXlip5GK2w3H0yZKvxZutbGA6YiXmVqw1bha0etUuMlvYMqicXdWcvHgwmYvX64pEC9pM0LXAqkYqQBPs2D7g2lcAu67LzKClwhwlV530Qmfz002PLMEoWpan_P1rI8cvQMGLVvrv1C7qs6Zwjr_Pwc8AfArSQgw3pjzWnbQI_6vpwafrEVkVRJWTNYmQc5r1G9zjPkKjX4lxwLKyduQWlLBdGGFjYmwYRKtj
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: broken
+title: Narmada Bachao Andolan vs. Union of India and others, (2000) 10 SCC 664
+uid: bd5a7bbf-a612-4a40-bd66-cd84f657f999
+url_status_code: 403
+wayback_url: ''
+---
